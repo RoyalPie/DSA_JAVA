@@ -48,7 +48,7 @@ class Stack {
         a.push(9);
         a.push(2);
         a.push(1);
-
+        a.push(14);
         a.display();
         a.pop();
         a.display();

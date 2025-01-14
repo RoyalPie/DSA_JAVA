@@ -1,17 +1,17 @@
 // dynamic arr
-class Array {
-    private int[] arr;
-    private int count;
-
-    public Array(int size){
-        arr = new int[size];
-    }
-
-    public void insert(){
-
-    }
-
-}
+//class Array {
+//    private int[] arr;
+//    private int count;
+//
+//    public Array(int size){
+//        arr = new int[size];
+//    }
+//
+//    public void insert(){
+//
+//    }
+//
+//}
 public class Main {
     public static void main(String[] args) {
         int[] arr = new int[8];
